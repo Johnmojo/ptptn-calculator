@@ -6,7 +6,7 @@ A quick [PTPTN](https://www.ptptn.gov.my/) loan calculator to find out how much 
 
 # Highlights
 
-Calculate accumulated loan & total interest over a period of time. Based on simple interest formula. **(S.I. = P × R × T)**
+Calculate accumulated loan & total interest over a period of time. <br /> Based on simple **interest formula**. **(S.I. = P × R × T) - Principle x Rate x Time.**
 
 # How to use
 
