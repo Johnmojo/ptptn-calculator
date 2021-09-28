@@ -1,6 +1,5 @@
 {
   "name": "ptptn-calculator",
-  "homepage": "https://johnmojo.github.io/ptptn-calculator/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
