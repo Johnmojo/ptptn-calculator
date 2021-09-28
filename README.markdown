@@ -2,7 +2,7 @@
 
 ![ptptn-calculator](https://user-images.githubusercontent.com/17354571/135025701-cb68ce89-a6c4-476b-ab84-07fc38b75549.png)
 
-A quick PTPTN loan calculator to find out how much. [**PTPTN Calculator Here**](https://johnmojo.github.io/ptptn-calculator/).
+A quick PTPTN loan calculator to find out how much you'll owe. [**PTPTN Calculator Site Here**](https://johnmojo.github.io/ptptn-calculator/).
 
 # Highlights
 
